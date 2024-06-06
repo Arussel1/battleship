@@ -1,0 +1,1 @@
+Battleship project using HTML, CSS and JS with jest for implementing TDD (Test Driven Development)
